@@ -9,7 +9,7 @@ Built with scalable architecture and real world SaaS patterns, HirePrep AI demon
 
 ## 🚀 Live Link
 
-🔗 **(https://hireprep.sudhirsingh.dev/)**
+🔗 **https://hireprep.sudhirsingh.dev**
 
 > Note. Initial load may take a few seconds on free hosting.
 
