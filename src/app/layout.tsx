@@ -13,6 +13,9 @@ const outfitSans = Outfit({
 export const metadata: Metadata = {
   title: "HirePrep AI",
   description: "AI-powered job preparation platform",
+  icons: {
+    icon: "/icon.svg",
+  },
 }
 
 export default function RootLayout({
